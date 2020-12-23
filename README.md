@@ -4,4 +4,4 @@ This repository contains the code for crack detection in concrete surfaces. It i
 
 The model acheived 98% accuracy on the validation set. A few results are shown below
 
-![plot](./Desktop/Capture.png)
+![plot](./Users/Konstantinos/Desktop/Capture.png)
