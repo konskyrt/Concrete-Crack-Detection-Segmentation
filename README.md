@@ -1,4 +1,4 @@
-# Concrete-Crack-Detection
+# Concrete-Crack-Detection-Segmentation
 This repository contains the code for crack detection in concrete surfaces. It is a PyTorch implementation of the paper by Young-Jin Cha and Wooram Choi - "Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks"
 
 
