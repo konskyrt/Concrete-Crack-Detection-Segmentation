@@ -13,4 +13,13 @@ PyTorch,
 OpenCV,
 Dataset -The data set can be downloaded from this link: https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
+The dataset contains concrete images having cracks. The data is collected from various METU Campus Buildings.
+The dataset is divided into two as negative and positive crack images for image classification. 
+Each class has 20000images with a total of 40000 images with 227 x 227 pixels with RGB channels. 
+The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). 
+High-resolution images have variance in terms of surface finish and illumination conditions. 
+No data augmentation in terms of random rotation or flipping is applied. 
+
 The dataset file creates the training dataset class to be fed into the Convolutional Neural Network. This class automatically determines the number of classes by the number of folders in 'in_dir' (number of folders=number of classes)
+
+2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.
