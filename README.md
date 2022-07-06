@@ -25,6 +25,8 @@ No data augmentation in terms of random rotation or flipping is applied.
 
 The dataset file creates the training dataset class to be fed into the Convolutional Neural Network. This class automatically determines the number of classes by the number of folders in 'in_dir' (number of folders=number of classes)
 
+Subsequently a web app is created with the option to input a number of images with cracks and outputs the length, width, category of the cracks along with a mask for the crack area
+
 ![Capture](https://github.com/yhlleo/DeepCrack/blob/master/figures/architecture.jpg?raw=true)
 ![Capture](https://user-images.githubusercontent.com/46296774/103016160-edd0b180-4541-11eb-8cfe-3c7680569eb9.PNG)
 ![Capture2](https://user-images.githubusercontent.com/46296774/103016173-f4f7bf80-4541-11eb-9bb5-933dcd725d9b.PNG)
