@@ -4,12 +4,9 @@ This repository contains the code for crack detection in concrete surfaces. It i
 
 DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation
 
-Resources: [paper] | [code] | [dataset]
-
-Architecture: based on Holistically-Nested Edge Detection, ICCV 2015, [Paper][code].
 
 
-
+![Capture](https://github.com/yhlleo/DeepCrack/blob/master/figures/architecture.jpg?raw=true)
 ![Capture](https://user-images.githubusercontent.com/46296774/103016160-edd0b180-4541-11eb-8cfe-3c7680569eb9.PNG)
 ![Capture2](https://user-images.githubusercontent.com/46296774/103016173-f4f7bf80-4541-11eb-9bb5-933dcd725d9b.PNG)
 
