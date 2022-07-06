@@ -15,7 +15,7 @@ PyTorch,
 OpenCV,
 Dataset -The data set can be downloaded from this link: https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
-
+Dataset:
 The dataset contains concrete images having cracks. The data is collected from various METU Campus Buildings.
 The dataset is divided into two as negative and positive crack images for image classification. 
 Each class has 20000 images with a total of 40000 images with 227 x 227 pixels with RGB channels. 
