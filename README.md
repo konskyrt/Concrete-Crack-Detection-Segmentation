@@ -35,4 +35,4 @@ The first type of result is created using the file: Crack recognition.ipynb and 
 The prediction using the Deepcrack model and the image labeling can be seen below:
 Subsequently a web app is created with the option to input a number of images with cracks and outputs the length, width, category of the cracks along with a mask for the crack area
 
-![image](https://user-images.githubusercontent.com/46296774/177761380-ca9ddab9-ec3b-48c4-b2af-6232de4943a4.png)
+![image](https://user-images.githubusercontent.com/46296774/177764562-f7ed470d-22b9-4e13-b5a0-74254b54b841.png)
