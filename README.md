@@ -1,6 +1,6 @@
 # Concrete-Crack-Detection-Segmentation
 
-This repository contains the code for crack detection in concrete surfaces. It is a PyTorch implementation of Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks with DeepCrack
+This repository contains the code for crack detection on concrete surfaces. It is a PyTorch implementation of Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks with DeepCrack
 
 DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation
 
