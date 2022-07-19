@@ -32,7 +32,8 @@ The first type of result is created using the file: Crack recognition.ipynb and 
 ![Capture](https://user-images.githubusercontent.com/46296774/103016160-edd0b180-4541-11eb-8cfe-3c7680569eb9.PNG)
 ![Capture2](https://user-images.githubusercontent.com/46296774/103016173-f4f7bf80-4541-11eb-9bb5-933dcd725d9b.PNG)
 
-The prediction using the Deepcrack model and the image labeling can be seen below:
+The second type of prediction is created using the files: cv2_utils.py and inference_utils.py
+inference_utils.py is using the Deepcrack model to predict the mask and afterwards the file cv2_utils.py is using OpenCV to create the parameters.
 Subsequently a web app is created with the option to input a number of images with cracks and outputs the length, width, category of the cracks along with a mask for the crack area
 
 ![image](https://user-images.githubusercontent.com/46296774/177764562-f7ed470d-22b9-4e13-b5a0-74254b54b841.png)
