@@ -9,6 +9,7 @@ import cv2
 from functools import reduce
 from scipy.interpolate import interp1d
 import math
+
 def midpoint(ptA, ptB):
     return ((ptA[0] + ptB[0]) * 0.5, (ptA[1] + ptB[1]) * 0.5)
 
