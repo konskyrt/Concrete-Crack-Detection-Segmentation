@@ -37,3 +37,8 @@ inference_utils.py is using the Deepcrack model to predict the mask and afterwar
 Subsequently a web app is created with the option to input a number of images with cracks and outputs the length, width, category of the cracks along with a mask for the crack area
 
 ![image](https://user-images.githubusercontent.com/46296774/177764562-f7ed470d-22b9-4e13-b5a0-74254b54b841.png)
+
+Copyrights:
+
+The author: Konstantinos Kyrtsonis has the legal right to be referenced if parts of the repo or the full repository is used in other systems or applications, papers or publications.
+
